@@ -13,7 +13,7 @@ public class Operating {
             arr[i] = sc.nextInt();
         }
 
-        // Sum
+        // Sum ho rah hai
         int p = 0;
 
         for (int n = 0; n < 4; n++) {
